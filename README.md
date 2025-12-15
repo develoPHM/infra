@@ -1,2 +1,1 @@
-# k3s
-공부
+# k3s + proxmox + terraform + spring
