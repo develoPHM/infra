@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: k3s-spring
-          image: hyunmok/k3s-spring:latest
+          image: hyunmok/k3s-spring:25.12.23
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
